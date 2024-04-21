@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q&#39;s Tech Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Q&#39;s Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 20 Apr 2024 18:23:29 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Sat, 20 Apr 2024 18:23:29 -0600</pubDate>
+      
+      <guid>http://localhost:1313/about/about/</guid>
+      
+      <description>Welcome to my Tech Blog Hello! This blog is for me to post about tech, IT, webhosting, and coding related topics. Some are about what I find interesting, some are my thoughts, and some are about the fixes I find or create for the stuff I run into, either professionaly or on the hobby projects I work on. At some point I&amp;rsquo;ll allow comments and posts, but after some years in the industry, its past time for me to have a site of some kind, so here we are.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
